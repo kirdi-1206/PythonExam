@@ -21,3 +21,4 @@ class NPPItem:
 
 NPPItem1 = NPPItem('am/is/are', 'was,were', 'been')
 print(NPPItem1.now, NPPItem1.past, NPPItem1.pp)
+
